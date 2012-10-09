@@ -1,5 +1,23 @@
 [
   {
+    "caption": "Examples",
+    "tooltip": "",
+    "icon": "",
+    "templates": [
+      {
+        "image": "http://gomobile.github.com/samples/template-example/h1.jpg",
+        "zipfile": "http://gomobile.github.com/samples/template-example/index.zip",
+        "url": "http://gomobile.github.com/samples/template-example/index.html",
+        "caption": "Example template",
+        "tooltip": "",
+        "description": "Example template shows folder and files structures for future creation of templates on github.com",
+        "category": "Examples",
+        "_id": "???",
+        "tags": []
+      }
+    ]
+  },
+  {
     "caption": "phonegap",
     "tooltip": "",
     "icon": "",
