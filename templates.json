@@ -12,8 +12,8 @@
         "tooltip": "",
         "description": "Example template shows folder and files structures for future creation of templates on github.com",
         "category": "Examples",
-        "_id": "???",
-        "tags": []
+        "tags": [],
+        "articleurl": "http://google.com"
       }
     ]
   },
