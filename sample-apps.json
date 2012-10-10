@@ -1,15 +1,15 @@
 {
 "version": "0.1",
-"sample-apps":
+"sample-categories":
 [
 	{
 		"caption": "Examples",
 		"tooltip": "",
 		"apps": [
 			{
-				"image": "http://gomobile.github.com/samples/template-example/h1.jpg",
-				"zipfile": "http://gomobile.github.com/samples/template-example/index.zip",
-				"url": "http://gomobile.github.com/samples/template-example/index.html",
+				"image": "http://gomobile.github.com/samples/sample-app-example/h1.jpg",
+				"zipfile": "http://gomobile.github.com/samples/sample-app-example/index.zip",
+				"url": "http://gomobile.github.com/samples/sample-app-example/index.html",
 				"caption": "Example sample application",
 				"tooltip": "",
 				"description": "Example sample application shows folder and files structures for future creation of templates on github.com. The functionality is simple: application shows h1 header",
