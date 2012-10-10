@@ -8,9 +8,6 @@
 		"apps": [
 			{
 				"reponame": "sample-app-example",
-				"image": "http://gomobile.github.com/samples/sample-app-example/h1.jpg",
-				"zipfile": "http://gomobile.github.com/samples/sample-app-example/index.zip",
-				"url": "http://gomobile.github.com/samples/sample-app-example/index.html",
 				"caption": "Example sample application",
 				"tooltip": "",
 				"description": "Example sample application shows folder and files structures for future creation of templates on github.com. The functionality is simple: application shows h1 header",
@@ -23,9 +20,7 @@
 		"tooltip": "",
 		"apps": [
 			{
-				"image": "public/Templates/505a34532752bd976a000023/screenshot.png",
-				"zipfile": "public/Templates/505a34532752bd976a000023.zip",
-				"url": "public/Templates/505a34532752bd976a000023/index.html",
+				"reponame": "phonegap",
 				"caption": "PhoneGap Media Example",
 				"tooltip": "A recording and playback using Phonegap",
 				"description": "A recording and playback using Phonegap",
@@ -38,27 +33,21 @@
 		"tooltip": "",
 		"apps": [
 			{
-				"image": "public/Templates/50637f0c0f2f6e9e6e000164/screenshot.png",
-				"zipfile": "public/Templates/50637f0c0f2f6e9e6e000164.zip",
-				"url": "public/Templates/50637f0c0f2f6e9e6e000164/index.html",
+				"reponame": "towers-of-hanoi ",
 				"caption": "Towers of Hanoi Demo",
 				"tooltip": "Towers of Hanoi Demo",
 				"description": "HTML5 applications should resize to fit a screen",
 				"articleurl": "http://intel.com"
 			},
 			{
-				"image": "public/Templates/506387970f2f6e9e6e000169/screenshot.png",
-				"zipfile": "public/Templates/506387970f2f6e9e6e000169.zip",
-				"url": "public/Templates/506387970f2f6e9e6e000169/index.html",
+				"reponame": "html5-todo-list",
 				"caption": "HTML5 Todo List",
 				"tooltip": "Todo List Application",
 				"description": "Todo List Application",
 				"articleurl": "http://intel.com"
 			},
 			{
-				"image": "public/Templates/50638bd90f2f6e9e6e00016d/screenshot.png",
-				"zipfile": "public/Templates/50638bd90f2f6e9e6e00016d.zip",
-				"url": "public/Templates/50638bd90f2f6e9e6e00016d/index.html",
+				"reponame": "game-of-annex",
 				"caption": "The Game of Annex",
 				"tooltip": "The Game of Annex",
 				"description": "HTML5 Game of Annex",
