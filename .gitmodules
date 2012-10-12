@@ -3,4 +3,4 @@
 	url = git://github.com/gomobile/basic-html5.git
 [submodule "samples/sample-app-example"]
 	path = samples/sample-app-example
-	url = https://github.com/gomobile/sample-app-example.git
+	url = git://github.com/gomobile/sample-app-example.git
