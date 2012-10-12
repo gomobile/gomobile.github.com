@@ -1,6 +1,3 @@
 [submodule "samples/basic-html5"]
 	path = samples/basic-html5
 	url = git://github.com/gomobile/basic-html5.git
-[submodule "samples/sample-app-example"]
-	path = samples/sample-app-example
-	url = git://github.com/gomobile/sample-app-example.git
