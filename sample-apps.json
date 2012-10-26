@@ -22,8 +22,8 @@
 			{
 				"reponame": "sample-phonegap-audio",
 				"caption": "Media Sample Using PhoneGap",
-				"tooltip": "Use of PhoneGap¡¯s media object for recording and playing back audio sound.",
-				"description": "Media Sample uses of PhoneGap¡¯s media object for recording and playing back audio sound. It also detect if a previous recorded media exists.",
+				"tooltip": "Use of PhoneGap media object for recording and playing back audio sound.",
+				"description": "Media Sample uses PhoneGap media object for recording and playing back audio sound. It detects if a previous recorded media exists.",
 				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
 			},
 			{
