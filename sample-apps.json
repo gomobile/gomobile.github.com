@@ -16,15 +16,17 @@
 		]
 	},
 	{
-		"caption": "phonegap",
-		"tooltip": "",
+		"caption": "PhoneGap",
+		"tooltip": "Samples with PhoneGap",
 		"apps": [
 			{
-				"reponame": "phonegap",
-				"caption": "PhoneGap Media Example",
-				"tooltip": "A recording and playback using Phonegap",
-				"description": "A recording and playback using Phonegap",
-				"articleurl": "http://intel.com"
+				"reponame": "sample-phonegap-audio",
+				"caption": "Media Sample Using PhoneGap",
+				"tooltip": "Use of PhoneGap¡¯s media object for recording and playing back audio sound.",
+				"description": "Media Sample uses of PhoneGap¡¯s media object for recording and playing back audio sound. It also detect if a previous recorded media exists.",
+				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap",
+			  ¡°category¡± : ¡°HTML5¡±,
+			  "visible" : "true"
 			}
 		]
 	},
