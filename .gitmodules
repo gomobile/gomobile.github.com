@@ -4,6 +4,3 @@
 [submodule "samples/sample-app-example"]
 	path = samples/sample-app-example
 	url = git://github.com/gomobile/sample-app-example.git
-[submodule "samples/sample-phonegap-audio"]
-	path = samples/sample-phonegap-audio
-	url = git://github.com/gomobile/sample-phonegap-audio.git
