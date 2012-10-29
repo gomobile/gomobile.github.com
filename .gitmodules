@@ -7,3 +7,6 @@
 [submodule "samples/sample-phonegap-audio"]
 	path = samples/sample-phonegap-audio
 	url = git://github.com/gomobile/sample-phonegap-audio.git
+[submodule "sample-counting-beads"]
+	path = sample-counting-beads
+	url = https://github.com/gomobile/sample-counting-beads.git
