@@ -3,19 +3,6 @@
 "sample-categories":
 [
 	{
-		"caption": "Examples",
-		"tooltip": "",
-		"apps": [
-			{
-				"reponame": "sample-app-example",
-				"caption": "Example sample application",
-				"tooltip": "",
-				"description": "Example sample application shows folder and files structures for future creation of templates on github.com. The functionality is simple: application shows h1 header",
-				"articleurl": "http://intel.com"
-			}
-		]
-	},
-	{
 		"caption": "phonegap",
 		"tooltip": "",
 		"apps": [
@@ -27,11 +14,25 @@
 				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
 			},
 			{
-				"reponame": "phonegap",
-				"caption": "PhoneGap Media Example",
-				"tooltip": "A recording and playback using Phonegap",
-				"description": "A recording and playback using Phonegap",
-				"articleurl": "http://intel.com"
+				"reponame": "sample-phonegap-camera",
+				"caption": "PhoneGap Camera API Sample",
+				"tooltip": "Capture a photo using a device camera and edit (zoom and crop) the picture.",
+				"description": "This sample demonstrates the use of the PhoneGap Camera API to capture photos with device camera or to retrieve photos from the saved photo albums. It also demonstrates the variety of configurations with which photos can be captured. The application uses jQuery as well as jQuery Mobile (for theming).",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the"
+			},
+			{
+				"reponame": "sample-phonegap-contacts",
+				"caption": "PhoneGap Contacts API Sample",
+				"tooltip": "Contacts: Work with the devices contact database.",
+				"description": "This sample demonstrates the use of the PhoneGap Contacts API for getting access to the device contacts database. The application supports the following actions: displaying a full contact list, displaying a full information on a single contact, creating a new contact, editing an existing contact, saving a contact to the device contacts database, searching for all contacts satisfying a search criteria, filtering a list of contacts by name, sorting a list of contacts, deleting a single contact, cloning a contact. The application uses the following libraries: jQuery, jQuery Mobile (for theming).",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database"
+			},
+			{
+				"reponame": "sample-phonegap-compass",
+				"caption": "PhoneGap Compass API Sample",
+				"tooltip": "Simple Compass application uses PhoneGap Compass API.",
+				"description": "This sample application demonstrates the use of the PhoneGap Compass API.",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
 			}
 		]
 	},
@@ -40,32 +41,18 @@
 		"tooltip": "",
 		"apps": [
 			{
+				"reponame": "sample-counting-beads",
+				"caption": "Counting Beads Game",
+				"tooltip": "A simple HTML5 game for kids.",
+				"description": "A simple game built using HTML5, JavaScript, CSS3, and jQuery that teaches young kids counting up to 50. ",
+				"articleurl": "http://software.intel.com/en-us/articles/porting-counting-beads-web-app-to-phonegap-app"
+			},
+			{
 				"reponame": "towers-of-hanoi ",
 				"caption": "Towers of Hanoi Demo",
 				"tooltip": "Towers of Hanoi Demo",
 				"description": "HTML5 applications should resize to fit a screen",
 				"articleurl": "http://intel.com"
-			},
-			{
-				"reponame": "html5-todo-list",
-				"caption": "HTML5 Todo List",
-				"tooltip": "Todo List Application",
-				"description": "Todo List Application",
-				"articleurl": "http://intel.com"
-			},
-			{
-				"reponame": "game-of-annex",
-				"caption": "The Game of Annex",
-				"tooltip": "The Game of Annex",
-				"description": "HTML5 Game of Annex",
-				"articleurl": "http://intel.com"
-			},
-			{
-				"reponame": "counting beads",
-				"caption": "Counting Beads Game",
-				"tooltip": "A simple HTML5 game for kids.",
-				"description": "A simple game built using HTML5, JavaScript, CSS3, and jQuery that teaches young kids counting up to 50. ",
-				"articleurl": "http://software.intel.com/en-us/articles/porting-counting-beads-web-app-to-phonegap-app"
 			}
 		]
 	}
