@@ -76,21 +76,21 @@
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
 			},
 			{
-			  "repository" : "sample-flood",
+			  "reponame" : "sample-flood",
 			  "caption": "Flood Puzzle Game",
 			  "tooltip": "Flood Puzzle Game",
 			  "description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
 			  "articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
 			},
 			{
-			  "repository" : "sample-rpn-calc",
+			  "reponame" : "sample-rpn-calc",
 			  "caption": "RPN Calculator",
 			  "tooltip": "Reverse Polish Notation Calculator.",
 			  "description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
 			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			},
 			{
-			  "repository" : "sample-where-is-my-car",
+			  "reponame" : "sample-where-is-my-car",
 			  "caption": "Where Is My Car",
 			  "tooltip": "Runs as web app or PhoneGap app.",
 			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
