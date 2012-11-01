@@ -88,6 +88,13 @@
 			  "tooltip": "Reverse Polish Notation Calculator.",
 			  "description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
 			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
+			},
+			{
+			  "repository" : "sample-where-is-my-car",
+			  "caption": "Where Is My Car",
+			  "tooltip": "Runs as web app or PhoneGap app.",
+			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
+			  "articleurl": "http://software.intel.com/en-us/articles/where-is-my-car-web-app-and-phonegap-app"
 			}
 		]
 	}
