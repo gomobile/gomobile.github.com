@@ -40,7 +40,14 @@
 				"tooltip": "Simple tool to measure angles on surface which uses PhoneGap Accelerometer API.",
 				"description": "This sample application demonstrates the use of the PhoneGap Accelerometer API. BubbleLevel allows to measure surface angles. BubbleLevel  changes its skin in dependence of device orientation.",
 				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
-			}
+			},
+			{
+				"reponame": "sample-phonegap-connect-images",
+				"caption": "Connecting Images",
+				"tooltip": "Simple game to demonstrate the PhoneGap Accelerometer API.",
+				"description": "This simple game demonstrates the use of the PhoneGap Accelerometer API. Connect the Intel logo with the mobile phone icon using the device accelerometer. The map on the board is generated dynamically.",
+				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
+			}			
 		]
 	},
 	{
