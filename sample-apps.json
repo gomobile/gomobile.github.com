@@ -33,27 +33,6 @@
 				"tooltip": "Simple Compass application uses PhoneGap Compass API.",
 				"description": "This sample application demonstrates the use of the PhoneGap Compass API.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
-			},
-			{
-				"reponame": "sample-phonegap-media-handbell",
-				"caption": "Handbell",
-				"tooltip": "Handbell Using PhoneGap Media",
-				"description": "HandBell allows you to shake a picture of a bell and hear sounds. It demonstrates the use of PhoneGap media object.",
-				"articleurl": "http://software.intel.com/en-us/articles/create-handbell-using-html5-and-phonegap"
-			},
-			{
-				"reponame": "sample-phonegap-connect-images",
-				"caption": "Connecting Images",
-				"tooltip": "Simple game to demonstrate the PhoneGap Accelerometer API.",
-				"description": "This simple game demonstrates the use of the PhoneGap Accelerometer API. Connect the Intel logo with the mobile phone icon using the device accelerometer. The map on the board is generated dynamically.",
-				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
-			},
-			{
-				"reponame": "sample-bubble-level",
-				"caption": "Bubble Level",
-				"tooltip": "Simple tool to measure angles on surface which uses PhoneGap Accelerometer API.",
-				"description": "This sample application demonstrates the use of the PhoneGap Accelerometer API. BubbleLevel allows to measure surface angles. BubbleLevel  changes its skin in dependence of device orientation.",
-				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
 			}
 		]
 	},
@@ -74,20 +53,6 @@
 				"tooltip": "Uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.",
 				"description": "This HTML5 application was built using the Geolocation and Canvas application programming interface (API) of the HTML5 W3C specification.  The sample uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.  A predefined target location, in the form of latitude and longitude, is stored in the code and compared to the user¡¯s current location also in degrees of latitude and longitude to determine whether the user is near to the proposed coordinates.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
-			},
-			{
-			  "repository" : "sample-flood"
-			  "caption": "Flood Puzzle Game",
-			  "tooltip": "Flood Puzzle Game",
-			  "description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
-			  "articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
-			},			
-			{
-			  "repository" : "sample-rpn-calc"
-			  "caption": "RPN Calculator",
-			  "tooltip": "Reverse Polish Notation Calculator.",
-			  "description": "A 'Themable' Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
-			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			}
 		]
 	}
