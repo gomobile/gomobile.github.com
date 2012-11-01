@@ -90,7 +90,7 @@
 			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			},
 			{
-			  "reponame": "samples-where-is-my-car",
+			  "reponame": "sample-where-is-my-car",
 			  "caption": "Where Is My Car",
 			  "tooltip": "Runs as web app or PhoneGap app.",
 			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
@@ -102,7 +102,14 @@
 			  "tooltip": "Animate the Towers of Hanoi Puzzle",
 			  "description": "This example shows how to use CSS and jQuery to animate the solving of the Towers of Hanoi puzzle.  The game will dynamically scale itself to fit any screen size",
 			  "articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css"
-			}
+			},
+			{
+			  "reponame": "sample-jqm-listnav",
+			  "caption": "jQM List Nav",
+			  "tooltip": "jQuery Mobile scaffold using list-based navigation.",
+			  "description": "This sample is a multi-page jQuery Mobile scaffold using list-based navigation. It can help familiarize you with using jQuery Mobile pages and basic widgets like toolbars and listviews.",
+			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-list-navigation"
+			}			
 		]
 	}
 ]
