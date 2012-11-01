@@ -60,7 +60,14 @@
 			  "tooltip": "Flood Puzzle Game",
 			  "description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
 			  "articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
-			}			
+			},
+			{
+			  "repository" : "sample-rpn-calc",
+			  "caption": "RPN Calculator",
+			  "tooltip": "Reverse Polish Notation Calculator.",
+			  "description": "A 'Themable' Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
+			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
+			}
 		]
 	}
 ]
