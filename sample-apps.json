@@ -65,7 +65,7 @@
 			  "repository" : "sample-rpn-calc",
 			  "caption": "RPN Calculator",
 			  "tooltip": "Reverse Polish Notation Calculator.",
-			  "description": "A 'Themable' Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
+			  "description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
 			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			}
 		]
