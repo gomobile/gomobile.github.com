@@ -53,7 +53,14 @@
 				"tooltip": "Uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.",
 				"description": "This HTML5 application was built using the Geolocation and Canvas application programming interface (API) of the HTML5 W3C specification.  The sample uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.  A predefined target location, in the form of latitude and longitude, is stored in the code and compared to the user¡¯s current location also in degrees of latitude and longitude to determine whether the user is near to the proposed coordinates.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
-			}
+			},
+			{
+			  "repository" : "sample-flood"
+			  "caption": "Flood Puzzle Game",
+			  "tooltip": "Flood Puzzle Game",
+			  "description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
+			  "articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
+			}			
 		]
 	}
 ]
