@@ -90,7 +90,7 @@
 			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			},
 			{
-			  "reponame": "sample-where-is-my-car",
+			  "reponame": "samples-where-is-my-car",
 			  "caption": "Where Is My Car",
 			  "tooltip": "Runs as web app or PhoneGap app.",
 			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
