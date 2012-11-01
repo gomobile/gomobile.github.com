@@ -70,7 +70,7 @@
 			},
 			{
 				"reponame": "sample-html5-geolocation",
-				"caption": "Html5 Geolocation Sample With Canvas",
+				"caption": "Html5 Geolocation Using Canvas",
 				"tooltip": "Uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.",
 				"description": "This HTML5 application was built using the Geolocation and Canvas application programming interface (API) of the HTML5 W3C specification.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
@@ -95,6 +95,13 @@
 			  "tooltip": "Runs as web app or PhoneGap app.",
 			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
 			  "articleurl": "http://software.intel.com/en-us/articles/where-is-my-car-web-app-and-phonegap-app"
+			},
+			{
+			  "reponame": "sample-towers-of-hanoi",
+			  "caption": "Towers of Hanoi",
+			  "tooltip": "Animate the Towers of Hanoi Puzzle",
+			  "description": "This example shows how to use CSS and jQuery to animate the solving of the Towers of Hanoi puzzle.  The game will dynamically scale itself to fit any screen size",
+			  "articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css"
 			}
 		]
 	}
