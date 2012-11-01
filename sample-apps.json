@@ -47,7 +47,14 @@
 				"tooltip": "Simple game to demonstrate the PhoneGap Accelerometer API.",
 				"description": "This simple game demonstrates the use of the PhoneGap Accelerometer API. Connect the Intel logo with the mobile phone icon using the device accelerometer. The map on the board is generated dynamically.",
 				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
-			}			
+			},			
+			{
+				"reponame": "sample-phonegap-media-handbell",
+				"caption": "Handbell",
+				"tooltip": "Handbell Using PhoneGap Media",
+				"description": "HandBell allows you to shake a picture of a bell and hear sounds. It demonstrates the use of PhoneGap media object.",
+				"articleurl": "http://software.intel.com/en-us/articles/create-handbell-using-html5-and-phonegap"
+			}
 		]
 	},
 	{
