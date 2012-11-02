@@ -109,7 +109,21 @@
 			  "tooltip": "jQuery Mobile scaffold using list-based navigation.",
 			  "description": "This sample is a multi-page jQuery Mobile scaffold using list-based navigation. It can help familiarize you with using jQuery Mobile pages and basic widgets like toolbars and listviews.",
 			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-list-navigation"
-			}			
+			},
+			{
+			  "reponame": "sample-bubblewrap",
+			  "caption": "Bubblewrap",
+			  "tooltip": "Fun bubble popping game",
+			  "description": "Bubblewrap is a fun bubble popping game implemented with HTML5/Javascript technology",
+			  "articleurl": "http://software.intel.com/en-us/articles/porting-bubblewrap-web-app-to-android-and-ios-using-phonegap"
+			},
+			{
+			  "reponame": "sample-jqm-tabnav",
+			  "caption": "jQM Tab Nav",
+			  "tooltip": "jQuery Mobile scaffold using tab-based navigation.",
+			  "description": "This sample is a multi-page jQuery Mobile scaffold using tab-based navigation. It also demonstrates how to create a custom options menu widget that maintains state across page transitions, and how to dynamically inject widgets into the DOM.",
+			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-tab-navigation"
+			}
 		]
 	}
 ]
