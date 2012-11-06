@@ -43,7 +43,7 @@
 			},
 			{
 				"reponame": "sample-phonegap-connect-images",
-				"caption": "Connecting Images",
+				"caption": "Labyrinth Game",
 				"tooltip": "Simple game to demonstrate the PhoneGap Accelerometer API.",
 				"description": "This simple game demonstrates the use of the PhoneGap Accelerometer API. Connect the Intel logo with the mobile phone icon using the device accelerometer. The map on the board is generated dynamically.",
 				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
@@ -123,6 +123,30 @@
 			  "tooltip": "jQuery Mobile scaffold using tab-based navigation.",
 			  "description": "This sample is a multi-page jQuery Mobile scaffold using tab-based navigation. It also demonstrates how to create a custom options menu widget that maintains state across page transitions, and how to dynamically inject widgets into the DOM.",
 			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-tab-navigation"
+			},
+			{
+			  "reponame": "sample-jqm-springboard-nav",
+			  "caption": "jQM Springboard Nav",
+			  "tooltip": "jQuery Mobile scaffold using springboard-based navigation.",
+			  "description": "This sample is a multi-page jQuery Mobile scaffold using springboard-based navigation. It also demonstrates custom styling techniques to adapt to various screen sizes and rotations, and achieve a different look and feel than jQuery Mobile defaults.",
+			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-springboard-navigation"
+			},
+			{
+			  "reponame" : "sample-html5-localstorage",
+			  "caption": "HTML5 Local Storage",
+			  "tooltip": "HTML5 Local Storage.",
+			  "description": "This sample application demonstrates the use HTML5 local storage.
+			The sample demonstrates how to use the HTML5 Local storage features, how to set the
+			key value pairs and how to retrieve the Key value pairs using local storage",
+			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
+			},
+			{
+			  "reponame" : "sample-html5-websqlstorage",
+			  "caption": "HTML5 Web SQL Storage",
+			  "tooltip": "HTML5 Web SQL Storage.",
+			  "description": "The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the
+				key value pairs and how to retrieve the Key value pairs using Web SQL storage",
+			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			}
 		]
 	}
