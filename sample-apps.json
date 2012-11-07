@@ -135,17 +135,14 @@
 			  "reponame" : "sample-html5-localstorage",
 			  "caption": "HTML5 Local Storage",
 			  "tooltip": "HTML5 Local Storage.",
-			  "description": "This sample application demonstrates the use HTML5 local storage.
-			The sample demonstrates how to use the HTML5 Local storage features, how to set the
-			key value pairs and how to retrieve the Key value pairs using local storage",
+			  "description": "This sample application demonstrates the use HTML5 local storage. 			The sample demonstrates how to use the HTML5 Local storage features, how to set the key value pairs and how to retrieve the Key value pairs using local storage",
 			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
 			  "reponame" : "sample-html5-websqlstorage",
 			  "caption": "HTML5 Web SQL Storage",
 			  "tooltip": "HTML5 Web SQL Storage.",
-			  "description": "The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the
-				key value pairs and how to retrieve the Key value pairs using Web SQL storage",
+			  "description": "The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the 				key value pairs and how to retrieve the Key value pairs using Web SQL storage",
 			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			}
 		]
