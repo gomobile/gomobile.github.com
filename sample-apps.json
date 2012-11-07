@@ -144,6 +144,13 @@
 			  "tooltip": "HTML5 Web SQL Storage.",
 			  "description": "The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the key value pairs and how to retrieve the Key value pairs using Web SQL storage",
 			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
+			},
+			{
+			  "reponame" : "sample-todolist",
+			  "caption": "ToDo List",
+			  "tooltip": "ToDo List Sample",
+			  "description": "This application is a simple ToDo list.",
+			  "articleurl": "http://software.intel.com/en-us/articles/porting-todo-list-app-to-android-and-ios-using-phonegap"
 			}
 		]
 	}
