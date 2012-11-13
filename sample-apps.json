@@ -8,51 +8,51 @@
 		"apps": [
 			{
 				"reponame": "sample-phonegap-audio",
-				"caption": "Media Sample Using PhoneGap",
-				"tooltip": "Record and playback sound",
-				"description": "Media Sample uses PhoneGap media object for recording and playing back audio sound. It detects if a previous recorded media exists.",
+				"caption": "PhoneGap Media Object Sample",
+				"tooltip": "Use a PhoneGap media object to record and playback audio sound.",
+				"description": "Use a PhoneGap media object to record and playback audio. Also detects if a previous recording exists.",
 				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
 			},
 			{
 				"reponame": "sample-phonegap-camera",
 				"caption": "PhoneGap Camera API Sample",
-				"tooltip": "Take a photo and access photo albums",
-				"description": "This sample demonstrates the use of the PhoneGap Camera API to capture photos with device camera or to retrieve photos from the saved photo albums. It also demonstrates the variety of configurations with which photos can be captured. The application uses jQuery as well as jQuery Mobile (for theming).",
+				"tooltip": "Capture a photo using the device camera and edit (zoom and crop) the picture.",
+				"description": "Capture photos with the device camera and retrieve photos from a saved photo album using the PhoneGap Camera API. Demonstrates the variety of configurations with which photos can be captured. Uses jQuery and jQuery Mobile.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the"
 			},
 			{
 				"reponame": "sample-phonegap-contacts",
 				"caption": "PhoneGap Contacts API Sample",
-				"tooltip": "View, add, and remove contacts",
-				"description": "This sample demonstrates the use of the PhoneGap Contacts API for getting access to the device contacts database. ",
+				"tooltip": "Interact with device contact database",
+				"description": "Interact with the device contact database using the PhoneGap Contacts API.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database"
 			},
 			{
 				"reponame": "sample-phonegap-compass",
 				"caption": "PhoneGap Compass API Sample",
-				"tooltip": "Show which way is North",
-				"description": "This sample application demonstrates the use of the PhoneGap Compass API.",
+				"tooltip": "Simple PhoneGap compass application",
+				"description": "A compass application to demonstrate the use of the PhoneGap Compass API.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
 			},
 			{
 				"reponame": "sample-bubble-level",
 				"caption": "Bubble Level",
-				"tooltip": "Detect if your device is tilted",
-				"description": "This sample application demonstrates the use of the PhoneGap Accelerometer API. BubbleLevel allows to measure surface angles. BubbleLevel  changes its skin in dependence of device orientation.",
+				"tooltip": "BubbleLevel measures angles with the PhoneGap Accelerometer API",
+				"description": "BubbleLevel measures surface angles using the PhoneGap Accelerometer API and changes its skin as a function of the device orientation.",
 				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
 			},
 			{
 				"reponame": "sample-phonegap-connect-images",
 				"caption": "Labyrinth Game",
-				"tooltip": "Tilt your device to move an image",
-				"description": "This simple game demonstrates the use of the PhoneGap Accelerometer API. Connect the Intel logo with the mobile phone icon using the device accelerometer. The map on the board is generated dynamically.",
+				"tooltip": "Simple game demonstrates the PhoneGap Accelerometer API.",
+				"description": "Connect the Intel logo with the mobile phone icon using the PhoneGap device accelerometer. The board map is generated dynamically.",
 				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
 			},			
 			{
 				"reponame": "sample-phonegap-media-handbell",
 				"caption": "Handbell",
-				"tooltip": "Ring a bell by shaking your device",
-				"description": "HandBell allows you to shake a picture of a bell and hear sounds. It demonstrates the use of PhoneGap media object.",
+				"tooltip": "Using PhoneGap Media",
+				"description": "Shake a picture of a bell and hear sounds. A demonstration of the PhoneGap media object.",
 				"articleurl": "http://software.intel.com/en-us/articles/create-handbell-using-html5-and-phonegap"
 			}
 		]
@@ -62,102 +62,102 @@
 		"tooltip": "",
 		"apps": [
 			{
-			  "reponame" : "sample-todolist",
-			  "caption": "ToDo List",
-			  "tooltip": "View, add, and edit items in a ToDo List",
-			  "description": "This application is a simple ToDo list.",
-			  "articleurl": "http://software.intel.com/en-us/articles/porting-todo-list-app-to-android-and-ios-using-phonegap"
+				"reponame" : "sample-todolist",
+				"caption": "ToDo List",
+				"tooltip": "ToDo List Sample",
+				"description": "An HTML5 web app that has been converted to a device app using PhoneGap.",
+				"articleurl": "http://software.intel.com/en-us/articles/porting-todo-list-app-to-android-and-ios-using-phonegap"
 			},
 			{
 				"reponame": "sample-counting-beads",
 				"caption": "Counting Beads Game",
-				"tooltip": "Teach children to count",
-				"description": "A simple game built using HTML5, JavaScript, CSS3, and jQuery that teaches young kids counting up to 50. ",
+				"tooltip": "A simple HTML5 game for kids",
+				"description": "A simple game built using HTML5, JavaScript, CSS3 and jQuery that teaches young kids counting up to 50.",
 				"articleurl": "http://software.intel.com/en-us/articles/porting-counting-beads-web-app-to-phonegap-app"
 			},
 			{
 				"reponame": "sample-html5-geolocation",
-				"caption": "Html5 Geolocation Using Canvas",
-				"tooltip": "Show how close you are to a location",
-				"description": "This HTML5 application was built using the Geolocation and Canvas application programming interface (API) of the HTML5 W3C specification.",
+				"caption": "HTML5 Geolocation using Canvas",
+				"tooltip": "Use geolocation data to render graphics on a canvas element",
+				"description": "This HTML5 application was built using the Geolocation and Canvas API and uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
 			},
 			{
-			  "reponame": "sample-flood",
-			  "caption": "Flood Puzzle Game",
-			  "tooltip": "Solve a tile-based puzzle",
-			  "description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
-			  "articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
+				"reponame": "sample-flood",
+				"caption": "Flood Puzzle Game",
+				"tooltip": "Flood Puzzle Game",
+				"description": "A flood game, similar to Color Flood or Flood-it, where the goal is to fill the field with a single color using the minimum number of color transitions",
+				"articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
 			},
 			{
-			  "reponame": "sample-rpn-calc",
-			  "caption": "RPN Calculator",
-			  "tooltip": "Compute with a RPN calculator",
-			  "description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s.  Several different themes are included, with different color schemes, styles and button animations",
-			  "articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
+				"reponame": "sample-rpn-calc",
+				"caption": "RPN Calculator",
+				"tooltip": "Reverse Polish Notation Calculator",
+				"description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s. Several different themes are included, with different color schemes, styles and button animations.",
+				"articleurl": "http://software.intel.com/en-us/articles/rpn-calculator"
 			},
 			{
-			  "reponame": "sample-where-is-my-car",
-			  "caption": "Where Is My Car",
-			  "tooltip": "Locate your car",
-			  "description": "Runs as both a web app or as a PhoneGap application. Uses GeoLocation, LocalStorage apis and unifies startup events.",
-			  "articleurl": "http://software.intel.com/en-us/articles/where-is-my-car-web-app-and-phonegap-app"
+				"reponame": "sample-where-is-my-car",
+				"caption": "Where Is My Car",
+				"tooltip": "Single source web app or PhoneGap app",
+				"description": "Unifies startup events so that a single source code base can run as both a web app and as a PhoneGap app; while taking advantage of device features. Uses GeoLocation and LocalStorage APIs.",
+				"articleurl": "http://software.intel.com/en-us/articles/where-is-my-car-web-app-and-phonegap-app"
 			},
 			{
-			  "reponame": "sample-towers-of-hanoi",
-			  "caption": "Towers of Hanoi",
-			  "tooltip": "Solve the Towers of Hanoi Puzzle",
-			  "description": "This example shows how to use CSS and jQuery to animate the solving of the Towers of Hanoi puzzle.  The game will dynamically scale itself to fit any screen size",
-			  "articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css"
+				"reponame": "sample-towers-of-hanoi",
+				"caption": "Towers of Hanoi",
+				"tooltip": "Animated Towers of Hanoi Puzzle",
+				"description": "Illustrates use of CSS and jQuery to animate solving the Towers of Hanoi puzzle. The game dynamically scales itself to fit any screen size.",
+				"articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css"
 			},
 			{
-			  "reponame": "sample-jqm-listnav",
-			  "caption": "jQM List Nav",
-			  "tooltip": "Use jQuery Mobile list-based navigation.",
-			  "description": "This sample is a multi-page jQuery Mobile scaffold using list-based navigation. It can help familiarize you with using jQuery Mobile pages and basic widgets like toolbars and listviews.",
-			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-list-navigation"
+				"reponame": "sample-jqm-listnav",
+				"caption": "jQM List Nav",
+				"tooltip": "jQuery Mobile scaffold using list-based navigation",
+				"description": "A multi-page jQuery Mobile scaffold using list-based navigation. To familiarize yourself with jQuery Mobile pages and basic widgets like toolbars and listviews.",
+				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-list-navigation"
 			},
 			{
-			  "reponame": "sample-bubblewrap",
-			  "caption": "Bubblewrap",
-			  "tooltip": "Pop bubble wrap",
-			  "description": "Bubblewrap is a fun bubble popping game implemented with HTML5/Javascript technology",
-			  "articleurl": "http://software.intel.com/en-us/articles/porting-bubblewrap-web-app-to-android-and-ios-using-phonegap"
+				"reponame": "sample-bubblewrap",
+				"caption": "Bubblewrap",
+				"tooltip": "Scalable bubble popping game",
+				"description": "Bubblewrap is a fun bubble popping game implemented with HTML5/Javascript technology that illustrates adaptation to various sized screens.",
+				"articleurl": "http://software.intel.com/en-us/articles/porting-bubblewrap-web-app-to-android-and-ios-using-phonegap"
 			},
 			{
-			  "reponame": "sample-jqm-tabnav",
-			  "caption": "jQM Tab Nav",
-			  "tooltip": "Use jQuery Mobile tab-based navigation",
-			  "description": "This sample is a multi-page jQuery Mobile scaffold using tab-based navigation. It also demonstrates how to create a custom options menu widget that maintains state across page transitions, and how to dynamically inject widgets into the DOM.",
-			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-tab-navigation"
+				"reponame": "sample-jqm-tabnav",
+				"caption": "jQM Tab Nav",
+				"tooltip": "jQuery Mobile scaffold using tab-based navigation",
+				"description": "A multi-page jQuery Mobile scaffold using tab-based navigation. It also demonstrates how to create a custom options menu widget that maintains state across page transitions; and how to dynamically inject widgets into the DOM.",
+				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-tab-navigation"
 			},
 			{
-			  "reponame": "sample-jqm-springboard-nav",
-			  "caption": "jQM Springboard Nav",
-			  "tooltip": "Use jQuery Mobile springboard-based navigation",
-			  "description": "This sample is a multi-page jQuery Mobile scaffold using springboard-based navigation. It also demonstrates custom styling techniques to adapt to various screen sizes and rotations, and achieve a different look and feel than jQuery Mobile defaults.",
-			  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-springboard-navigation"
+				"reponame": "sample-jqm-springboard-nav",
+				"caption": "jQM Springboard Nav",
+				"tooltip": "jQuery Mobile scaffold using springboard-based navigation",
+				"description": "A multi-page jQuery Mobile scaffold using springboard-based navigation. It also demonstrates custom styling techniques to adapt to various screen sizes and rotations, and achieve a different look and feel than jQuery Mobile defaults.",
+				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-springboard-navigation"
 			},
 			{
-			  "reponame" : "sample-html5-localstorage",
-			  "caption": "HTML5 Local Storage",
-			  "tooltip": "Use HTML5 local storage",
-			  "description": "This sample application demonstrates the use HTML5 local storage. The sample demonstrates how to use the HTML5 Local storage features, how to set the key value pairs and how to retrieve the Key value pairs using local storage",
-			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
+				"reponame" : "sample-html5-localstorage",
+				"caption": "HTML5 Local Storage",
+				"tooltip": "HTML5 Local Storage",
+				"description": "An application that demonstrates the use HTML5 local storage: how to use HTML5 Local storage features, how to set key/value pairs and how to retrieve key/value pairs.",
+				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-			  "reponame" : "sample-html5-websqlstorage",
-			  "caption": "HTML5 Web SQL Storage",
-			  "tooltip": "Use HTML5 Web SQL Storage",
-			  "description": "The sample demonstrates how to use the HTML5 Web SQL storage features, how to set the key value pairs and how to retrieve the Key value pairs using Web SQL storage",
-			  "articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
+				"reponame" : "sample-html5-websqlstorage",
+				"caption": "HTML5 Web SQL Storage",
+				"tooltip": "HTML5 Web SQL Storage",
+				"description": "Demonstrates the HTML5 Web SQL storage features: how to set key/value pairs and how to retrieve key/value pairs using Web SQL storage.",
+				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-			"reponame" : "sample-html5-touch-and-move",
-			"caption": "Touch and Move",
-			"tooltip": "Use touch and mouse events",
-			"description": "The sample demonstrates how to create movable objects using JavaScript.",
-			"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
+				"reponame" : "sample-html5-touch-and-move",
+				"caption": "Touch and Move",
+				"tooltip": "Use touch and mouse events to move elements",
+				"description": "Demonstrates how to create movable objects using JavaScript.",
+				"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
 			}
 		]
 	}
