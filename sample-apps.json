@@ -155,8 +155,8 @@
 			{
 			"reponame" : "sample-html5-touch-and-move",
 			"caption": "Touch and Move",
-			"tooltip": "Use touch and mouse events to move elements",
-			"description": "Demonstrates how to create movable objects using JavaScript.",
+			"tooltip": "Use touch and mouse events",
+			"description": "The sample demonstrates how to create movable objects using JavaScript.",
 			"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
 			}
 		]
