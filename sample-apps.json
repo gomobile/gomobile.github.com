@@ -160,7 +160,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
 			},
 			{
-			  "reponame": "sample-sketchpad"
+			  "reponame": "sample-sketchpad",
 			  "caption": "Sketch Pad",
 			  "tooltip": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer.",
 			  "description": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer. Runs on HTML5 browser or can be wrapped in PhoneGap to run on mobile devices.",
