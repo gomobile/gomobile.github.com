@@ -139,25 +139,32 @@
 				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-springboard-navigation"
 			},
 			{
-				"reponame" : "sample-html5-localstorage",
+				"reponame": "sample-html5-localstorage",
 				"caption": "HTML5 Local Storage",
 				"tooltip": "HTML5 Local Storage",
 				"description": "An application that demonstrates the use HTML5 local storage: how to use HTML5 Local storage features, how to set key/value pairs and how to retrieve key/value pairs.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-				"reponame" : "sample-html5-websqlstorage",
+				"reponame": "sample-html5-websqlstorage",
 				"caption": "HTML5 Web SQL Storage",
 				"tooltip": "HTML5 Web SQL Storage",
 				"description": "Demonstrates the HTML5 Web SQL storage features: how to set key/value pairs and how to retrieve key/value pairs using Web SQL storage.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-				"reponame" : "sample-html5-touch-and-move",
+				"reponame": "sample-html5-touch-and-move",
 				"caption": "Touch and Move",
 				"tooltip": "Use touch and mouse events to move elements",
 				"description": "Demonstrates how to create movable objects using JavaScript.",
 				"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
+			},
+			{
+			  "reponame": "sample-sketchpad"
+			  "caption": "Sketch Pad",
+			  "tooltip": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer.",
+			  "description": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer. Runs on HTML5 browser or can be wrapped in PhoneGap to run on mobile devices.",
+			  "articleurl": "http://software.intel.com/en-us/articles/drawing-app-using-html5-canvas"
 			}
 		]
 	}
