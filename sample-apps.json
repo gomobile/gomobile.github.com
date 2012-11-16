@@ -3,61 +3,6 @@
 "sample-categories":
 [
 	{
-		"caption": "PhoneGap",
-		"tooltip": "",
-		"apps": [
-			{
-				"reponame": "sample-phonegap-audio",
-				"caption": "PhoneGap Media Object Sample",
-				"tooltip": "Use a PhoneGap media object to record and playback audio sound.",
-				"description": "Use a PhoneGap media object to record and playback audio. Also detects if a previous recording exists.",
-				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
-			},
-			{
-				"reponame": "sample-phonegap-camera",
-				"caption": "PhoneGap Camera API Sample",
-				"tooltip": "Capture a photo using the device camera and edit (zoom and crop) the picture.",
-				"description": "Capture photos with the device camera and retrieve photos from a saved photo album using the PhoneGap Camera API. Demonstrates the variety of configurations with which photos can be captured. Uses jQuery and jQuery Mobile.",
-				"articleurl": "http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the"
-			},
-			{
-				"reponame": "sample-phonegap-contacts",
-				"caption": "PhoneGap Contacts API Sample",
-				"tooltip": "Interact with device contact database",
-				"description": "Interact with the device contact database using the PhoneGap Contacts API.",
-				"articleurl": "http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database"
-			},
-			{
-				"reponame": "sample-phonegap-compass",
-				"caption": "PhoneGap Compass API Sample",
-				"tooltip": "Simple PhoneGap compass application",
-				"description": "A compass application to demonstrate the use of the PhoneGap Compass API.",
-				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
-			},
-			{
-				"reponame": "sample-bubble-level",
-				"caption": "Bubble Level",
-				"tooltip": "BubbleLevel measures angles with the PhoneGap Accelerometer API",
-				"description": "BubbleLevel measures surface angles using the PhoneGap Accelerometer API and changes its skin as a function of the device orientation.",
-				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
-			},
-			{
-				"reponame": "sample-phonegap-connect-images",
-				"caption": "Labyrinth Game",
-				"tooltip": "Simple game demonstrates the PhoneGap Accelerometer API.",
-				"description": "Connect the Intel logo with the mobile phone icon using the PhoneGap device accelerometer. The board map is generated dynamically.",
-				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
-			},			
-			{
-				"reponame": "sample-phonegap-media-handbell",
-				"caption": "Handbell",
-				"tooltip": "Using PhoneGap Media",
-				"description": "Shake a picture of a bell and hear sounds. A demonstration of the PhoneGap media object.",
-				"articleurl": "http://software.intel.com/en-us/articles/create-handbell-using-html5-and-phonegap"
-			}
-		]
-	},
-	{
 		"caption": "HTML5",
 		"tooltip": "",
 		"apps": [
@@ -165,6 +110,61 @@
 			  "tooltip": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer.",
 			  "description": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer. Runs on HTML5 browser or can be wrapped in PhoneGap to run on mobile devices.",
 			  "articleurl": "http://software.intel.com/en-us/articles/drawing-app-using-html5-canvas"
+			}
+		]
+	},
+	{
+		"caption": "PhoneGap",
+		"tooltip": "",
+		"apps": [
+			{
+				"reponame": "sample-phonegap-audio",
+				"caption": "PhoneGap Media Object Sample",
+				"tooltip": "Use a PhoneGap media object to record and playback audio sound.",
+				"description": "Use a PhoneGap media object to record and playback audio. Also detects if a previous recording exists.",
+				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
+			},
+			{
+				"reponame": "sample-phonegap-camera",
+				"caption": "PhoneGap Camera API Sample",
+				"tooltip": "Capture a photo using the device camera and edit (zoom and crop) the picture.",
+				"description": "Capture photos with the device camera and retrieve photos from a saved photo album using the PhoneGap Camera API. Demonstrates the variety of configurations with which photos can be captured. Uses jQuery and jQuery Mobile.",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the"
+			},
+			{
+				"reponame": "sample-phonegap-contacts",
+				"caption": "PhoneGap Contacts API Sample",
+				"tooltip": "Interact with device contact database",
+				"description": "Interact with the device contact database using the PhoneGap Contacts API.",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database"
+			},
+			{
+				"reponame": "sample-phonegap-compass",
+				"caption": "PhoneGap Compass API Sample",
+				"tooltip": "Simple PhoneGap compass application",
+				"description": "A compass application to demonstrate the use of the PhoneGap Compass API.",
+				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
+			},
+			{
+				"reponame": "sample-bubble-level",
+				"caption": "Bubble Level",
+				"tooltip": "BubbleLevel measures angles with the PhoneGap Accelerometer API",
+				"description": "BubbleLevel measures surface angles using the PhoneGap Accelerometer API and changes its skin as a function of the device orientation.",
+				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
+			},
+			{
+				"reponame": "sample-phonegap-connect-images",
+				"caption": "Labyrinth Game",
+				"tooltip": "Simple game demonstrates the PhoneGap Accelerometer API.",
+				"description": "Connect the Intel logo with the mobile phone icon using the PhoneGap device accelerometer. The board map is generated dynamically.",
+				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
+			},			
+			{
+				"reponame": "sample-phonegap-media-handbell",
+				"caption": "Handbell",
+				"tooltip": "Using PhoneGap Media",
+				"description": "Shake a picture of a bell and hear sounds. A demonstration of the PhoneGap media object.",
+				"articleurl": "http://software.intel.com/en-us/articles/create-handbell-using-html5-and-phonegap"
 			}
 		]
 	}
