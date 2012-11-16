@@ -62,13 +62,6 @@
 		"tooltip": "",
 		"apps": [
 			{
-				"reponame" : "sample-todolist",
-				"caption": "ToDo List",
-				"tooltip": "ToDo List Sample",
-				"description": "An HTML5 web app that has been converted to a device app using PhoneGap.",
-				"articleurl": "http://software.intel.com/en-us/articles/porting-todo-list-app-to-android-and-ios-using-phonegap"
-			},
-			{
 				"reponame": "sample-counting-beads",
 				"caption": "Counting Beads Game",
 				"tooltip": "A simple HTML5 game for kids",
