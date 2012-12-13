@@ -15,7 +15,7 @@
 			},
 			{
 				"reponame": "sample-html5-geolocation",
-				"caption": "HTML5 Geolocation using Canvas",
+				"caption": "HTML5 Geolocation",
 				"tooltip": "Use geolocation data to render graphics on a canvas element",
 				"description": "This HTML5 application was built using the Geolocation and Canvas API and uses geolocation data as a mechanism in which rendering of graphics onto a canvas element takes place based on the indicated relative location.",
 				"articleurl": "http://software.intel.com/en-us/articles/html5-geolocation-sample-with-canvas"
@@ -98,7 +98,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-				"reponame": "sample-html5-touch-and-move",
+				"reponame": "sample-touch-and-move",
 				"caption": "Touch and Move",
 				"tooltip": "Use touch and mouse events to move elements",
 				"description": "Demonstrates how to create movable objects using JavaScript.",
