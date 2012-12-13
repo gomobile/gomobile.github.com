@@ -119,28 +119,28 @@
 		"apps": [
 			{
 				"reponame": "sample-phonegap-audio",
-				"caption": "PhoneGap Media Object Sample",
+				"caption": "PhoneGap Audio",
 				"tooltip": "Use a PhoneGap media object to record and playback audio sound.",
 				"description": "Use a PhoneGap media object to record and playback audio. Also detects if a previous recording exists.",
 				"articleurl": "http://software.intel.com/en-us/articles/media-sample-using-phonegap"
 			},
 			{
 				"reponame": "sample-phonegap-camera",
-				"caption": "PhoneGap Camera API Sample",
+				"caption": "PhoneGap Camera",
 				"tooltip": "Capture a photo using the device camera and edit (zoom and crop) the picture.",
 				"description": "Capture photos with the device camera and retrieve photos from a saved photo album using the PhoneGap Camera API. Demonstrates the variety of configurations with which photos can be captured. Uses jQuery and jQuery Mobile.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-camera-api-capture-a-photo-using-a-device-camera-and-edit-zoom-and-crop-the"
 			},
 			{
 				"reponame": "sample-phonegap-contacts",
-				"caption": "PhoneGap Contacts API Sample",
+				"caption": "PhoneGap Contacts",
 				"tooltip": "Interact with device contact database",
 				"description": "Interact with the device contact database using the PhoneGap Contacts API.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-contacts-work-with-the-devices-contact-database"
 			},
 			{
 				"reponame": "sample-phonegap-compass",
-				"caption": "PhoneGap Compass API Sample",
+				"caption": "PhoneGap Compass",
 				"tooltip": "Simple PhoneGap compass application",
 				"description": "A compass application to demonstrate the use of the PhoneGap Compass API.",
 				"articleurl": "http://software.intel.com/en-us/articles/phonegap-compass-api"
@@ -160,7 +160,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/connect-intel-with-cellphone-accelerometer-phonegap-api"
 			},			
 			{
-				"reponame": "sample-phonegap-media-handbell",
+				"reponame": "sample-handbell",
 				"caption": "Handbell",
 				"tooltip": "Using PhoneGap Media",
 				"description": "Shake a picture of a bell and hear sounds. A demonstration of the PhoneGap media object.",
