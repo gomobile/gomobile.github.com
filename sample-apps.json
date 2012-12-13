@@ -28,7 +28,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/flood-puzzle-game"
 			},
 			{
-				"reponame": "sample-rpn-calc",
+				"reponame": "sample-rpn-calculator",
 				"caption": "RPN Calculator",
 				"tooltip": "Reverse Polish Notation Calculator",
 				"description": "A Themable Stack based calculator using reverse polish notation, akin to the HP calculators that were popular with engineers and scientists in the 1980s. Several different themes are included, with different color schemes, styles and button animations.",
