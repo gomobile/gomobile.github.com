@@ -49,7 +49,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/towers-of-hanoi-using-jquery-and-css"
 			},
 			{
-				"reponame": "sample-jqm-listnav",
+				"reponame": "sample-jqm-list-nav",
 				"caption": "jQM List Nav",
 				"tooltip": "jQuery Mobile scaffold using list-based navigation",
 				"description": "A multi-page jQuery Mobile scaffold using list-based navigation. To familiarize yourself with jQuery Mobile pages and basic widgets like toolbars and listviews.",
@@ -70,8 +70,8 @@
 				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-tab-navigation"
 			},
 			{
-				  "reponame": "sample-jqm-listview",
-				  "caption": "jQM Listview",
+				  "reponame": "sample-jqm-list-view",
+				  "caption": "jQM List View",
 				  "tooltip": "Paginated list of current DVD rentals with dynamic page generation and open web API data.",
 				  "description": "This jQuery Mobile sample uses the Rotten Tomatoes API to create a paginated list of current DVD rentals. It demonstrates how to populate a listview with live data from a web API, and how to dynamically generate pages.",
 				  "articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-listview"
