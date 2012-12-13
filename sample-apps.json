@@ -63,7 +63,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/porting-bubblewrap-web-app-to-android-and-ios-using-phonegap"
 			},
 			{
-				"reponame": "sample-jqm-tabnav",
+				"reponame": "sample-jqm-tab-nav",
 				"caption": "jQM Tab Nav",
 				"tooltip": "jQuery Mobile scaffold using tab-based navigation",
 				"description": "A multi-page jQuery Mobile scaffold using tab-based navigation. It also demonstrates how to create a custom options menu widget that maintains state across page transitions; and how to dynamically inject widgets into the DOM.",
@@ -105,7 +105,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/touch-and-move-how-to-use-touch-and-mouse-events-to-move-elements-over-the-screen"
 			},
 			{
-			  "reponame": "sample-sketchpad",
+			  "reponame": "sample-sketch-pad",
 			  "caption": "Sketch Pad",
 			  "tooltip": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer.",
 			  "description": "Simple drawing clipboard app for free style drawing with colors using touch, mouse or accelerometer. Runs on HTML5 browser or can be wrapped in PhoneGap to run on mobile devices.",
