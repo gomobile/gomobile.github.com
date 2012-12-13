@@ -84,7 +84,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/jquery-mobile-springboard-navigation"
 			},
 			{
-				"reponame": "sample-html5-localstorage",
+				"reponame": "sample-html5-local-storage",
 				"caption": "HTML5 Local Storage",
 				"tooltip": "HTML5 Local Storage",
 				"description": "An application that demonstrates the use HTML5 local storage: how to use HTML5 Local storage features, how to set key/value pairs and how to retrieve key/value pairs.",
