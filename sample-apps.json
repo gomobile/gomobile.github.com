@@ -153,7 +153,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/bubble-level-accelerometer-phonegap-api-use-example"
 			},
 			{
-				"reponame": "sample-phonegap-connect-images",
+				"reponame": "sample-labyrinth",
 				"caption": "Labyrinth Game",
 				"tooltip": "Simple game demonstrates the PhoneGap Accelerometer API.",
 				"description": "Connect the Intel logo with the mobile phone icon using the PhoneGap device accelerometer. The board map is generated dynamically.",
