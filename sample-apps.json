@@ -91,7 +91,7 @@
 				"articleurl": "http://software.intel.com/en-us/articles/html5-local-storage"
 			},
 			{
-				"reponame": "sample-html5-websqlstorage",
+				"reponame": "sample-html5-web-sql-storage",
 				"caption": "HTML5 Web SQL Storage",
 				"tooltip": "HTML5 Web SQL Storage",
 				"description": "Demonstrates the HTML5 Web SQL storage features: how to set key/value pairs and how to retrieve key/value pairs using Web SQL storage.",
