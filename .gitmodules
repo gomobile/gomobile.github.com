@@ -1,9 +1,0 @@
-[submodule "samples/towers-of-hanoi"]
-	path = samples/towers-of-hanoi
-	url = https://github.com/gomobile/sample-towers-of-hanoi.git
-[submodule "samples/sketch-pad"]
-	path = samples/sketch-pad
-	url = git://github.com/gomobile/sample-sketch-pad.git
-[submodule "sample/test-https"]
-	path = sample/test-https
-	url = https://github.com/gomobile/test123.git
