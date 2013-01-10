@@ -6,4 +6,4 @@
 	url = git://github.com/gomobile/sample-sketch-pad.git
 [submodule "sample/test-https"]
 	path = sample/test-https
-	url = https://github.com/gomobile/test123.git
+	url = https://github.com/gomobile/test1234.git
