@@ -106,3 +106,6 @@
 [submodule "samples/develop/sample-touch-and-move"]
 	path = samples/develop/sample-touch-and-move
 	url = https://github.com/gomobile/sample-touch-and-move.git
+[submodule "samples/develop/sample-sketch-pad"]
+	path = samples/develop/sample-sketch-pad
+	url = https://github.com/gomobile/sample-sketch-pad.git
