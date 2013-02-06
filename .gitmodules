@@ -13,3 +13,6 @@
 [submodule "samples/sample-where-is-my-car"]
 	path = samples/sample-where-is-my-car
 	url = https://github.com/gomobile/sample-where-is-my-car.git
+[submodule "samples/sample-towers-of-hanoi"]
+	path = samples/sample-towers-of-hanoi
+	url = https://github.com/gomobile/sample-towers-of-hanoi.git
