@@ -124,3 +124,6 @@
 [submodule "samples/develop/sample-bubble-level"]
 	path = samples/develop/sample-bubble-level
 	url = https://github.com/gomobile/sample-bubble-level.git
+[submodule "samples/develop/sample-labyrinth"]
+	path = samples/develop/sample-labyrinth
+	url = https://github.com/gomobile/sample-labyrinth.git
