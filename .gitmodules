@@ -85,3 +85,6 @@
 [submodule "samples/develop/sample-jqm-list-nav"]
 	path = samples/develop/sample-jqm-list-nav
 	url = https://github.com/gomobile/sample-jqm-list-nav.git
+[submodule "samples/develop/sample-bubblewrap"]
+	path = samples/develop/sample-bubblewrap
+	url = https://github.com/gomobile/sample-bubblewrap.git
