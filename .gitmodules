@@ -1,0 +1,3 @@
+[submodule "samples/sample-counting-beads"]
+	path = samples/sample-counting-beads
+	url = https://github.com/gomobile/sample-counting-beads.git
