@@ -31,3 +31,6 @@
 [submodule "samples/sample-jqm-springboard-nav"]
 	path = samples/sample-jqm-springboard-nav
 	url = https://github.com/gomobile/sample-jqm-springboard-nav.git
+[submodule "samples/sample-html5-local-storage"]
+	path = samples/sample-html5-local-storage
+	url = https://github.com/gomobile/sample-html5-local-storage.git
