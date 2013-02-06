@@ -67,3 +67,6 @@
 [submodule "samples/develop/sample-counting-beads"]
 	path = samples/develop/sample-counting-beads
 	url = https://github.com/gomobile/sample-counting-beads.git
+[submodule "samples/develop/sample-html5-geolocation"]
+	path = samples/develop/sample-html5-geolocation
+	url = https://github.com/gomobile/sample-html5-geolocation.git
