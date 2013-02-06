@@ -97,3 +97,6 @@
 [submodule "samples/develop/sample-jqm-springboard-nav"]
 	path = samples/develop/sample-jqm-springboard-nav
 	url = https://github.com/gomobile/sample-jqm-springboard-nav.git
+[submodule "samples/develop/sample-html5-local-storage"]
+	path = samples/develop/sample-html5-local-storage
+	url = https://github.com/gomobile/sample-html5-local-storage.git
