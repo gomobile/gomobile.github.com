@@ -76,3 +76,6 @@
 [submodule "samples/develop/sample-rpn-calculator"]
 	path = samples/develop/sample-rpn-calculator
 	url = https://github.com/gomobile/sample-rpn-calculator.git
+[submodule "samples/develop/sample-where-is-my-car"]
+	path = samples/develop/sample-where-is-my-car
+	url = https://github.com/gomobile/sample-where-is-my-car.git
