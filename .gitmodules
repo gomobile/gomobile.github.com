@@ -88,3 +88,6 @@
 [submodule "samples/develop/sample-bubblewrap"]
 	path = samples/develop/sample-bubblewrap
 	url = https://github.com/gomobile/sample-bubblewrap.git
+[submodule "samples/develop/sample-jqm-tab-nav"]
+	path = samples/develop/sample-jqm-tab-nav
+	url = https://github.com/gomobile/sample-jqm-tab-nav.git
