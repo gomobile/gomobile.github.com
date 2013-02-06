@@ -52,3 +52,6 @@
 [submodule "samples/sample-phonegap-contacts"]
 	path = samples/sample-phonegap-contacts
 	url = https://github.com/gomobile/sample-phonegap-contacts.git
+[submodule "samples/sample-phonegap-compass"]
+	path = samples/sample-phonegap-compass
+	url = https://github.com/gomobile/sample-phonegap-compass.git
