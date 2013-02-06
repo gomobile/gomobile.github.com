@@ -91,3 +91,6 @@
 [submodule "samples/develop/sample-jqm-tab-nav"]
 	path = samples/develop/sample-jqm-tab-nav
 	url = https://github.com/gomobile/sample-jqm-tab-nav.git
+[submodule "samples/develop/sample-jqm-list-view"]
+	path = samples/develop/sample-jqm-list-view
+	url = https://github.com/gomobile/sample-jqm-list-view.git
