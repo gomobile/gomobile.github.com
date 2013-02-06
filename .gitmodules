@@ -115,3 +115,6 @@
 [submodule "samples/develop/sample-phonegap-camera"]
 	path = samples/develop/sample-phonegap-camera
 	url = https://github.com/gomobile/sample-phonegap-camera.git
+[submodule "samples/develop/sample-phonegap-contacts"]
+	path = samples/develop/sample-phonegap-contacts
+	url = https://github.com/gomobile/sample-phonegap-contacts.git
