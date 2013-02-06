@@ -4,3 +4,6 @@
 [submodule "samples/sample-html5-geolocation"]
 	path = samples/sample-html5-geolocation
 	url = https://github.com/gomobile/sample-html5-geolocation.git
+[submodule "samples/sample-flood-puzzle"]
+	path = samples/sample-flood-puzzle
+	url = https://github.com/gomobile/sample-flood-puzzle.git
