@@ -16,3 +16,6 @@
 [submodule "samples/sample-towers-of-hanoi"]
 	path = samples/sample-towers-of-hanoi
 	url = https://github.com/gomobile/sample-towers-of-hanoi.git
+[submodule "samples/sample-jqm-list-nav"]
+	path = samples/sample-jqm-list-nav
+	url = https://github.com/gomobile/sample-jqm-list-nav.git
