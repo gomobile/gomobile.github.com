@@ -34,3 +34,6 @@
 [submodule "samples/sample-html5-local-storage"]
 	path = samples/sample-html5-local-storage
 	url = https://github.com/gomobile/sample-html5-local-storage.git
+[submodule "samples/sample-html5-web-sql-storage"]
+	path = samples/sample-html5-web-sql-storage
+	url = https://github.com/gomobile/sample-html5-web-sql-storage.git
