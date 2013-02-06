@@ -7,3 +7,6 @@
 [submodule "samples/sample-flood-puzzle"]
 	path = samples/sample-flood-puzzle
 	url = https://github.com/gomobile/sample-flood-puzzle.git
+[submodule "samples/sample-rpn-calculator"]
+	path = samples/sample-rpn-calculator
+	url = https://github.com/gomobile/sample-rpn-calculator.git
