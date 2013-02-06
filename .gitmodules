@@ -103,3 +103,6 @@
 [submodule "samples/develop/sample-html5-web-sql-storage"]
 	path = samples/develop/sample-html5-web-sql-storage
 	url = https://github.com/gomobile/sample-html5-web-sql-storage.git
+[submodule "samples/develop/sample-touch-and-move"]
+	path = samples/develop/sample-touch-and-move
+	url = https://github.com/gomobile/sample-touch-and-move.git
