@@ -100,3 +100,6 @@
 [submodule "samples/develop/sample-html5-local-storage"]
 	path = samples/develop/sample-html5-local-storage
 	url = https://github.com/gomobile/sample-html5-local-storage.git
+[submodule "samples/develop/sample-html5-web-sql-storage"]
+	path = samples/develop/sample-html5-web-sql-storage
+	url = https://github.com/gomobile/sample-html5-web-sql-storage.git
