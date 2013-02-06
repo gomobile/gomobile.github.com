@@ -127,3 +127,6 @@
 [submodule "samples/develop/sample-labyrinth"]
 	path = samples/develop/sample-labyrinth
 	url = https://github.com/gomobile/sample-labyrinth.git
+[submodule "samples/develop/sample-handbell"]
+	path = samples/develop/sample-handbell
+	url = https://github.com/gomobile/sample-handbell.git
