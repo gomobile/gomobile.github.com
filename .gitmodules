@@ -55,3 +55,6 @@
 [submodule "samples/sample-phonegap-compass"]
 	path = samples/sample-phonegap-compass
 	url = https://github.com/gomobile/sample-phonegap-compass.git
+[submodule "samples/sample-bubble-level"]
+	path = samples/sample-bubble-level
+	url = https://github.com/gomobile/sample-bubble-level.git
