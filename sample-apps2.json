@@ -2,6 +2,14 @@ samplesData(
 {"version":"0.0.2",
 	"sample-apps":[
 {
+"reponame":"sample-csp-identity",
+"caption":"CSP Identity",
+"tooltip":"Authenticate your user with Intel Cloud Services Platform",
+"description":"Authenticate your user with Intel Cloud Services Platform identity service.",
+"articleurl":"http://software.intel.com/en-us/articles/using-the-intel-cloud-services-platform-identity-service-in-the-intel-xdk",
+"categories":["csp"]
+},
+{
 "reponame":"sample-counting-beads",
 "caption":"Counting Beads Game",
 "tooltip":"A simple HTML5 game for kids",
